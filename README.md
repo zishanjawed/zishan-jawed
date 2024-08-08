@@ -24,8 +24,7 @@
 
 
 
-## Snack eating my Contribution Graph
-![snake gif](https://github.com/zishan-jawed/zishan-jawed/blob/output/github-snake-dark.svg)
+
 
 
 
